@@ -1,0 +1,40 @@
+{
+	"timetable": {
+		"subject1": {
+			"day": "Tuse",
+			"time": "11:40-13:10",
+			"room": 422,
+			"lesson": "infomation(lecture)",
+			"teacher": "Болдырева Елена Александровна",
+			"location": "Кронверкский пр., д.49, лит.А",
+			"week": "Even"
+		},
+		"subject2": {
+			"day": "Tuse",
+			"time": "13h30-15:00",
+			"room": 324,
+			"lesson": "programming(practice)",
+			"teacher": "Лаздин Артур Вячеславович",
+			"location": "Кронверкский пр., д.49, лит.А",
+			"week": "Odd"
+		},
+		"subject3": {
+			"day": "Tuse",
+			"time": "15h20 - 16h50",
+			"room": 324,
+			"lesson": "programming(practice)",
+			"teacher": "Лаздин Артур Вячеславович",
+			"location": "Кронверкский пр., д.49, лит.А",
+			"week": "Odd"
+		},
+		"subject4": {
+			"day": "Tuse",
+			"time": "11:40-13:10",
+			"room": 433,
+			"lesson": "programming(lecture)",
+			"teacher": "Письмак Алексей Евгеньевич",
+			"location": "Кронверкский пр., д.49, лит.А",
+			"week": "Odd"
+		}
+	}
+}
